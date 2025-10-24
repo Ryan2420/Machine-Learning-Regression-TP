@@ -2,7 +2,7 @@ Machine Learning Regression TP
 
 This repository contains our first Machine Learning project realized as part of the AI Engineering program at Université Djilali Liabès de Sidi Bel Abbès.
 
-🧩 Overview
+ Overview
 
 We explored and implemented three fundamental regression models:
 
@@ -12,7 +12,7 @@ Multiple Linear Regression – matrix form solution and comparison with Scikit-l
 
 Polynomial Regression – modeling non-linear relationships
 
-🧠 Concepts Covered
+ Concepts Covered
 
 Analytical solution vs iterative optimization
 
@@ -22,7 +22,7 @@ Visualization and data interpretation
 
 Comparison with Scikit-learn’s LinearRegression
 
-🛠️ Tools & Libraries
+ Tools & Libraries
 
 Python 3
 
@@ -34,7 +34,7 @@ Pandas
 
 Scikit-learn
 
-📂 Files
+ Files
 
 exo1.ipynb → Simple Linear Regression (OLS & Gradient Descent)
 
@@ -44,7 +44,7 @@ exo3.ipynb → Polynomial Regression
 
 TP1_G2_Abdelhakem_Harmel.pdf → Full project report
 
-👥 Authors
+ Authors
 
 Abdelhakem Abdelhak
 
