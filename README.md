@@ -55,11 +55,14 @@ In this TP, we explored and implemented three fundamental regression models usin
 <p align="center">
   <img src="Screenshot 2025-10-24 220655.png" width="550"/>
 </p>
+
 *Figure 3 – Évolution de la fonction de coût J pendant la descente de gradient.
+
 <p align="center">
   <img src="Screenshot 2025-10-24 220738.png" width="550"/>
-*Figure 7 – Régression polynomiale de degré 2 ajustée aux données simulées
+
 </p>
+*Figure 7 – Régression polynomiale de degré 2 ajustée aux données simulées
 ---
 
 ##  Authors
