@@ -1,56 +1,73 @@
-Machine Learning Regression TP
+#  Machine Learning Regression TP
 
-This repository contains our first Machine Learning project realized as part of the AI Engineering program at Université Djilali Liabès de Sidi Bel Abbès.
+<p align="center">
+  <img src="Screenshot%202025-10-24%20220530.png" width="350"/>
+</p>
 
- Overview
+This repository contains our first Machine Learning project realized as part of the **AI Engineering program** at *Université Djilali Liabès de Sidi Bel Abbès*.
 
-We explored and implemented three fundamental regression models:
+---
 
-Simple Linear Regression – using both Ordinary Least Squares (OLS) and Gradient Descent methods
+##  Overview
 
-Multiple Linear Regression – matrix form solution and comparison with Scikit-learn
+In this TP, we explored and implemented three fundamental regression models using Python:
 
-Polynomial Regression – modeling non-linear relationships
+1. **Simple Linear Regression** – implemented with both *Ordinary Least Squares (OLS)* and *Gradient Descent*  
+2. **Multiple Linear Regression** – matrix formulation and comparison with *Scikit-learn*  
+3. **Polynomial Regression** – modeling non-linear relationships through feature transformation  
 
- Concepts Covered
+---
 
-Analytical solution vs iterative optimization
+##  Key Concepts Covered
+- Analytical vs Iterative optimization methods  
+- Model evaluation metrics: **RSS**, **RMSE**, **R²**  
+- Data visualization and interpretation using **Matplotlib**  
+- Comparison with Scikit-learn’s `LinearRegression`  
 
-Model evaluation: RSS, RMSE, R²
+---
 
-Visualization and data interpretation
+##  Tools & Libraries
+- **Python 3**
+- **NumPy**
+- **Matplotlib**
+- **Pandas**
+- **Scikit-learn**
 
-Comparison with Scikit-learn’s LinearRegression
+---
 
- Tools & Libraries
+##  Repository Structure
+| File | Description |
+|------|--------------|
+| `exo1.ipynb` | Simple Linear Regression (OLS & Gradient Descent) |
+| `exo2.ipynb` | Multiple Linear Regression |
+| `exo3.ipynb` | Polynomial Regression |
+| `TP1_G2_Abdelhakem_Harmel.pdf` | Full project report with analysis and visualizations |
 
-Python 3
+---
 
-NumPy
+##  Sample Output
 
-Matplotlib
+<p align="center">
+  <img src="Screenshot%202025-10-24%20220613.png" width="550"/>
+</p>
 
-Pandas
+*Figure – Linear regression line (OLS) fitted to training data.*
+<p align="center">
+  <img src="Screenshot%202025-10-24%20220613.png" width="550"/>
+</p>
 
-Scikit-learn
+---
 
- Files
+##  Authors
+- **Abdelhakem Abdelhak**  
+- **Harmel Rayan**
 
-exo1.ipynb → Simple Linear Regression (OLS & Gradient Descent)
+---
 
-exo2.ipynb → Multiple Linear Regression
+##  License
+This project is for educational purposes only.  
+Feel free to explore, learn, and build upon it.  
 
-exo3.ipynb → Polynomial Regression
+---
 
-TP1_G2_Abdelhakem_Harmel.pdf → Full project report
-
- Authors
-
-Abdelhakem Abdelhak
-
-Harmel Rayan
-
-🧾 License
-
-This project is for educational purposes only.
-Feel free to explore, learn, and build upon it.
+⭐ If you find this project helpful, consider giving it a star on GitHub!
